@@ -1,0 +1,30 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-finalfood-dev-164529-authRole",
+      "UnauthRoleArn": "arn:aws:iam::929364911291:role/amplify-finalfood-dev-164529-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::929364911291:role/amplify-finalfood-dev-164529-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-finalfood-dev-164529-deployment",
+      "UnauthRoleName": "amplify-finalfood-dev-164529-unauthRole",
+      "StackName": "amplify-finalfood-dev-164529",
+      "StackId": "arn:aws:cloudformation:us-east-2:929364911291:stack/amplify-finalfood-dev-164529/fb7e6ce0-e5b5-11eb-b796-067464c4e472",
+      "AmplifyAppId": "dbyoqtc19hb6m"
+    },
+    "categories": {
+      "auth": {
+        "finalfood2869b70c": {}
+      },
+      "function": {
+        "processPayment": {
+          "deploymentBucketName": "amplify-finalfood-dev-164529-deployment",
+          "s3Key": "amplify-builds/processPayment-63715059376a654e3158-build.zip"
+        },
+        "createOrder": {
+          "deploymentBucketName": "amplify-finalfood-dev-164529-deployment",
+          "s3Key": "amplify-builds/createOrder-49614c6450356f747564-build.zip"
+        }
+      }
+    }
+  }
+}
