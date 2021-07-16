@@ -18,11 +18,11 @@
       "function": {
         "processPayment": {
           "deploymentBucketName": "amplify-finalfood-dev-164529-deployment",
-          "s3Key": "amplify-builds/processPayment-63715059376a654e3158-build.zip"
+          "s3Key": "amplify-builds/processPayment-7372567a4b637377644e-build.zip"
         },
         "createOrder": {
           "deploymentBucketName": "amplify-finalfood-dev-164529-deployment",
-          "s3Key": "amplify-builds/createOrder-49614c6450356f747564-build.zip"
+          "s3Key": "amplify-builds/createOrder-717a665976647457514d-build.zip"
         }
       }
     }
